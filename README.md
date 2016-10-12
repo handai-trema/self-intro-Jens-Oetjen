@@ -9,3 +9,5 @@ I studied Human-Computer interaction for 3 yeras at Hamburg University before co
                              | | )    (  (   ;
                              | | |    / / / / 
                      vvVVvvVvVVVvvVVVvvVVvVvvvVvPhSv 
+  
+[bye_report](https://github.com/handai-trema/hello-trema-JensOetjen/tree/master/bye.md)
