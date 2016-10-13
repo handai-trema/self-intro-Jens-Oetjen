@@ -13,7 +13,7 @@ In the following, I present an ASCII-tapir.
 					 
 #First week (5.10.2016)#
   
-[bye_report](https://github.com/handai-trema/hello-trema-JensOetjen/tree/master/bye.md) <br />
-[Hello_report](https://github.com/handai-trema/hello-trema-JensOetjen/tree/master/hello.md)
+[bye_report](https://github.com/handai-trema/self-intro-Jens-Oetjen/blob/master/bye.md) <br />
+[Hello_report](https://github.com/handai-trema/self-intro-Jens-Oetjen/blob/master/hello.md)
 
 #Second week (12.10.2016)#
