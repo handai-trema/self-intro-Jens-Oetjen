@@ -18,5 +18,5 @@ In the following, I present an ASCII-tapir.
 
 #Second week (12.10.2016)#
 
-[Accelerating Cbench_Report](https://github.com/handai-trema/self-intro-Jens-Oetjen/blob/master/bye.md) <br />
-[Multi-Learning_Switch_Report](https://github.com/handai-trema/self-intro-Jens-Oetjen/blob/master/hello.md)
+[Accelerating Cbench_Report](https://github.com/handai-trema/cbench-JensOetjen/blob/master/Report_Accelerating_Cbench.md) <br />
+[Multi-Learning_Switch_Report](https://github.com/handai-trema/learning-switch-JensOetjen/blob/master/Report_Learning_switch.md)
