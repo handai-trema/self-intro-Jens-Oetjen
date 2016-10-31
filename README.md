@@ -20,3 +20,8 @@ In the following, I present an ASCII-tapir.
 
 [Accelerating Cbench_Report](https://github.com/handai-trema/cbench-JensOetjen/blob/master/Report_Accelerating_Cbench.md) <br />
 [Multi-Learning_Switch_Report](https://github.com/handai-trema/learning-switch-JensOetjen/blob/master/Report_Learning_switch.md)
+
+#Third week (19.10.2016)#
+
+[Patch-Panel](https://github.com/handai-trema/patch-panel-JensOetjen/blob/master/Report_Patch_panel.md) <br />
+[Multiple-Tables](https://github.com/handai-trema/learning-switch-JensOetjen/blob/master/Report_multiple_tables.md)
